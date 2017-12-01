@@ -1,0 +1,11 @@
+{
+    "Phone Type": [
+        "Home",
+        "Work",
+        "Mobile",
+        "Home fax",
+        "Work fax",
+        "Page",
+        "Other"
+    ]
+}

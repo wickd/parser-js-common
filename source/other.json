@@ -1,0 +1,52 @@
+{
+    "Phone Type": [
+        "Home",
+        "Work",
+        "Mobile",
+        "Home fax",
+        "Work fax",
+        "Page",
+        "Other"
+    ],
+    "Merchant Type": {
+        "Food": [
+            "Asian",
+            "American African",
+            "Cafe",
+            "Caribbean",
+            "Cuban",
+            "Dining Experiences",
+            "Fast Food",
+            "German",
+            "Italian",
+            "Mexican",
+            "Specialty"
+        ],
+        "Retailers": [
+            "Auto",
+            "Beauty & Personal Items",
+            "Clothing",
+            "Electronics",
+            "Entertainment",
+            "Farming",
+            "General Retail",
+            "Gifts",
+            "Health & Beauty",
+            "Home & Garden",
+            "Leisure and Hobbies",
+            "Pets"
+        ],
+        "Services": [
+            "Specialty Retail",
+            "Services",
+            "Auto",
+            "Dry Cleaning",
+            "Entertainment",
+            "Home & Garden",
+            "Health & Beauty",
+            "Locksmith",
+            "Personal",
+            "Pet"
+        ]
+    }
+}

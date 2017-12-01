@@ -1,0 +1,2488 @@
+{
+    "pet_type": {
+        "bird": {
+            "value": "bird",
+            "sub_types": {
+                "african_grey": {
+                    "active": true,
+                    "lable": "African Grey"
+                },
+                "amazon": {
+                    "active": true,
+                    "lable": "Amazon"
+                },
+                "brotogeris": {
+                    "active": true,
+                    "lable": "Brotogeris"
+                },
+                "budgie_budgerigar": {
+                    "active": true,
+                    "lable": "Budgie / Budgerigar"
+                },
+                "button_quail": {
+                    "active": true,
+                    "lable": "Button-Quail"
+                },
+                "caique": {
+                    "active": true,
+                    "lable": "Caique"
+                },
+                "canary": {
+                    "active": true,
+                    "lable": "Canary"
+                },
+                "chicken": {
+                    "active": true,
+                    "lable": "Chicken"
+                },
+                "cockatiel": {
+                    "active": true,
+                    "lable": "Cockatiel"
+                },
+                "cockatoo": {
+                    "active": true,
+                    "lable": "Cockatoo"
+                },
+                "conure": {
+                    "active": true,
+                    "lable": "Conure"
+                },
+                "dove": {
+                    "active": true,
+                    "lable": "Dove"
+                },
+                "duck": {
+                    "active": true,
+                    "lable": "Duck"
+                },
+                "eclectus": {
+                    "active": true,
+                    "lable": "Eclectus"
+                },
+                "emu": {
+                    "active": true,
+                    "lable": "Emu"
+                },
+                "finch": {
+                    "active": true,
+                    "lable": "Finch"
+                },
+                "goose": {
+                    "active": true,
+                    "lable": "Goose"
+                },
+                "guinea_fowl": {
+                    "active": true,
+                    "lable": "Guinea Fowl"
+                },
+                "kakariki": {
+                    "active": true,
+                    "lable": "Kakariki"
+                },
+                "lory_lorikeet": {
+                    "active": true,
+                    "lable": "Lory / Lorikeet"
+                },
+                "lovebird": {
+                    "active": true,
+                    "lable": "Lovebird"
+                },
+                "macaw": {
+                    "active": true,
+                    "lable": "Macaw"
+                },
+                "ostrich": {
+                    "active": true,
+                    "lable": "Ostrich"
+                },
+                "parakeet_other": {
+                    "active": true,
+                    "lable": "Parakeet (Other)"
+                },
+                "parrot_other": {
+                    "active": true,
+                    "lable": "Parrot (Other)"
+                },
+                "parrotlet": {
+                    "active": true,
+                    "lable": "Parrotlet"
+                },
+                "peacock_peafowl": {
+                    "active": true,
+                    "lable": "Peacock / Peafowl"
+                },
+                "pheasant": {
+                    "active": true,
+                    "lable": "Pheasant"
+                },
+                "pigeon": {
+                    "active": true,
+                    "lable": "Pigeon"
+                },
+                "pionus": {
+                    "active": true,
+                    "lable": "Pionus"
+                },
+                "poicephalus_senegal": {
+                    "active": true,
+                    "lable": "Poicephalus / Senegal"
+                },
+                "quail": {
+                    "active": true,
+                    "lable": "Quail"
+                },
+                "quaker_parakeet": {
+                    "active": true,
+                    "lable": "Quaker Parakeet"
+                },
+                "rhea": {
+                    "active": true,
+                    "lable": "Rhea"
+                },
+                "ringneck_psittacula": {
+                    "active": true,
+                    "lable": "Ringneck / Psittacula"
+                },
+                "rosella": {
+                    "active": true,
+                    "lable": "Rosella"
+                },
+                "swan": {
+                    "active": true,
+                    "lable": "Swan"
+                },
+                "toucan": {
+                    "active": true,
+                    "lable": "Toucan"
+                },
+                "turkey": {
+                    "active": true,
+                    "lable": "Turkey"
+                }
+            }
+        },
+        "cat": {
+            "value": "cat",
+            "sub_types": {
+                "abyssinian": {
+                    "active": true,
+                    "lable": "Abyssinian"
+                },
+                "american_curl": {
+                    "active": true,
+                    "lable": "American Curl"
+                },
+                "american_shorthair": {
+                    "active": true,
+                    "lable": "American Shorthair"
+                },
+                "american_wirehair": {
+                    "active": true,
+                    "lable": "American Wirehair"
+                },
+                "applehead_siamese": {
+                    "active": true,
+                    "lable": "Applehead Siamese"
+                },
+                "balinese": {
+                    "active": true,
+                    "lable": "Balinese"
+                },
+                "bengal": {
+                    "active": true,
+                    "lable": "Bengal"
+                },
+                "birman": {
+                    "active": true,
+                    "lable": "Birman"
+                },
+                "bobtail": {
+                    "active": true,
+                    "lable": "Bobtail"
+                },
+                "bombay": {
+                    "active": true,
+                    "lable": "Bombay"
+                },
+                "british_shorthair": {
+                    "active": true,
+                    "lable": "British Shorthair"
+                },
+                "burmese": {
+                    "active": true,
+                    "lable": "Burmese"
+                },
+                "burmilla": {
+                    "active": true,
+                    "lable": "Burmilla"
+                },
+                "calico": {
+                    "active": true,
+                    "lable": "Calico"
+                },
+                "canadian_hairless": {
+                    "active": true,
+                    "lable": "Canadian Hairless"
+                },
+                "chartreux": {
+                    "active": true,
+                    "lable": "Chartreux"
+                },
+                "chausie": {
+                    "active": true,
+                    "lable": "Chausie"
+                },
+                "chinchilla": {
+                    "active": true,
+                    "lable": "Chinchilla"
+                },
+                "cornish_rex": {
+                    "active": true,
+                    "lable": "Cornish Rex"
+                },
+                "cymric": {
+                    "active": true,
+                    "lable": "Cymric"
+                },
+                "devon_rex": {
+                    "active": true,
+                    "lable": "Devon Rex"
+                },
+                "dilute_calico": {
+                    "active": true,
+                    "lable": "Dilute Calico"
+                },
+                "dilute_tortoiseshell": {
+                    "active": true,
+                    "lable": "Dilute Tortoiseshell"
+                },
+                "domestic_long_hair": {
+                    "active": true,
+                    "lable": "Domestic Long Hair"
+                },
+                "domestic_long_hair_black_white": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Black & White)"
+                },
+                "domestic_long_hair_black": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Black)"
+                },
+                "domestic_long_hair_brown": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Brown)"
+                },
+                "domestic_long_hair_buff_white": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Buff & White)"
+                },
+                "domestic_long_hair_buff": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Buff)"
+                },
+                "domestic_long_hair_gray_white": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Gray & White)"
+                },
+                "domestic_long_hair_gray": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Gray)"
+                },
+                "domestic_long_hair_orange_white": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Orange & White)"
+                },
+                "domestic_long_hair_orange": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (Orange)"
+                },
+                "domestic_long_hair_white": {
+                    "active": true,
+                    "lable": "Domestic Long Hair (White)"
+                },
+                "domestic_medium_hair": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair"
+                },
+                "domestic_medium_hair_black_white": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Black & White)"
+                },
+                "domestic_medium_hair_black": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Black)"
+                },
+                "domestic_medium_hair_brown": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Brown)"
+                },
+                "domestic_medium_hair_buff_white": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Buff & White)"
+                },
+                "domestic_medium_hair_buff": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Buff)"
+                },
+                "domestic_medium_hair_gray_white": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Gray & White)"
+                },
+                "domestic_medium_hair_gray": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Gray)"
+                },
+                "domestic_medium_hair_orange_white": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Orange & White)"
+                },
+                "domestic_medium_hair_orange": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (Orange)"
+                },
+                "domestic_medium_hair_white": {
+                    "active": true,
+                    "lable": "Domestic Medium Hair (White)"
+                },
+                "domestic_short_hair": {
+                    "active": true,
+                    "lable": "Domestic Short Hair"
+                },
+                "domestic_short_hair_black_white": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Black & White)"
+                },
+                "domestic_short_hair_black": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Black)"
+                },
+                "domestic_short_hair_brown": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Brown)"
+                },
+                "domestic_short_hair_buff_white": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Buff & White)"
+                },
+                "domestic_short_hair_buff": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Buff)"
+                },
+                "domestic_short_hair_gray_white": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Gray & White)"
+                },
+                "domestic_short_hair_gray": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Gray)"
+                },
+                "domestic_short_hair_mitted": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Mitted)"
+                },
+                "domestic_short_hair_orange_white": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Orange & White)"
+                },
+                "domestic_short_hair_orange": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (Orange)"
+                },
+                "domestic_short_hair_white": {
+                    "active": true,
+                    "lable": "Domestic Short Hair (White)"
+                },
+                "egyptian_mau": {
+                    "active": true,
+                    "lable": "Egyptian Mau"
+                },
+                "exotic_shorthair": {
+                    "active": true,
+                    "lable": "Exotic Shorthair"
+                },
+                "extra_toes_cat_hemingway_polydactyl": {
+                    "active": true,
+                    "lable": "Extra-Toes Cat / Hemingway Polydactyl"
+                },
+                "havana": {
+                    "active": true,
+                    "lable": "Havana"
+                },
+                "himalayan": {
+                    "active": true,
+                    "lable": "Himalayan"
+                },
+                "japanese_bobtail": {
+                    "active": true,
+                    "lable": "Japanese Bobtail"
+                },
+                "javanese": {
+                    "active": true,
+                    "lable": "Javanese"
+                },
+                "korat": {
+                    "active": true,
+                    "lable": "Korat"
+                },
+                "laperm": {
+                    "active": true,
+                    "lable": "LaPerm"
+                },
+                "maine_coon": {
+                    "active": true,
+                    "lable": "Maine Coon"
+                },
+                "manx": {
+                    "active": true,
+                    "lable": "Manx"
+                },
+                "munchkin": {
+                    "active": true,
+                    "lable": "Munchkin"
+                },
+                "nebelung": {
+                    "active": true,
+                    "lable": "Nebelung"
+                },
+                "norwegian_forest_cat": {
+                    "active": true,
+                    "lable": "Norwegian Forest Cat"
+                },
+                "ocicat": {
+                    "active": true,
+                    "lable": "Ocicat"
+                },
+                "oriental_long_hair": {
+                    "active": true,
+                    "lable": "Oriental Long Hair"
+                },
+                "oriental_short_hair": {
+                    "active": true,
+                    "lable": "Oriental Short Hair"
+                },
+                "oriental_tabby": {
+                    "active": true,
+                    "lable": "Oriental Tabby"
+                },
+                "persian": {
+                    "active": true,
+                    "lable": "Persian"
+                },
+                "pixie_bob": {
+                    "active": true,
+                    "lable": "Pixie-Bob"
+                },
+                "ragamuffin": {
+                    "active": true,
+                    "lable": "Ragamuffin"
+                },
+                "ragdoll": {
+                    "active": true,
+                    "lable": "Ragdoll"
+                },
+                "russian_blue": {
+                    "active": true,
+                    "lable": "Russian Blue"
+                },
+                "scottish_fold": {
+                    "active": true,
+                    "lable": "Scottish Fold"
+                },
+                "selkirk_rex": {
+                    "active": true,
+                    "lable": "Selkirk Rex"
+                },
+                "siamese": {
+                    "active": true,
+                    "lable": "Siamese"
+                },
+                "siberian": {
+                    "active": true,
+                    "lable": "Siberian"
+                },
+                "silver": {
+                    "active": true,
+                    "lable": "Silver"
+                },
+                "singapura": {
+                    "active": true,
+                    "lable": "Singapura"
+                },
+                "snowshoe": {
+                    "active": true,
+                    "lable": "Snowshoe"
+                },
+                "somali": {
+                    "active": true,
+                    "lable": "Somali"
+                },
+                "sphynx_hairless_cat": {
+                    "active": true,
+                    "lable": "Sphynx / Hairless Cat"
+                },
+                "tabby": {
+                    "active": true,
+                    "lable": "Tabby"
+                },
+                "tabby_black": {
+                    "active": true,
+                    "lable": "Tabby (Black)"
+                },
+                "tabby_brown": {
+                    "active": true,
+                    "lable": "Tabby (Brown)"
+                },
+                "tabby_buff": {
+                    "active": true,
+                    "lable": "Tabby (Buff)"
+                },
+                "tabby_gray": {
+                    "active": true,
+                    "lable": "Tabby (Gray)"
+                },
+                "tabby_orange": {
+                    "active": true,
+                    "lable": "Tabby (Orange)"
+                },
+                "tabby_white": {
+                    "active": true,
+                    "lable": "Tabby (White)"
+                },
+                "tiger": {
+                    "active": true,
+                    "lable": "Tiger"
+                },
+                "tonkinese": {
+                    "active": true,
+                    "lable": "Tonkinese"
+                },
+                "torbie": {
+                    "active": true,
+                    "lable": "Torbie"
+                },
+                "tortoiseshell": {
+                    "active": true,
+                    "lable": "Tortoiseshell"
+                },
+                "turkish_angora": {
+                    "active": true,
+                    "lable": "Turkish Angora"
+                },
+                "turkish_van": {
+                    "active": true,
+                    "lable": "Turkish Van"
+                },
+                "tuxedo": {
+                    "active": true,
+                    "lable": "Tuxedo"
+                }
+            }
+        },
+        "dog": {
+            "value": "dog",
+            "sub_types": {
+                "affenpinscher": {
+                    "active": true,
+                    "lable": "Affenpinscher"
+                },
+                "afghan_hound": {
+                    "active": true,
+                    "lable": "Afghan Hound"
+                },
+                "airedale_terrier": {
+                    "active": true,
+                    "lable": "Airedale Terrier"
+                },
+                "akbash": {
+                    "active": true,
+                    "lable": "Akbash"
+                },
+                "akita": {
+                    "active": true,
+                    "lable": "Akita"
+                },
+                "alaskan_malamute": {
+                    "active": true,
+                    "lable": "Alaskan Malamute"
+                },
+                "american_bulldog": {
+                    "active": true,
+                    "lable": "American Bulldog"
+                },
+                "american_eskimo_dog": {
+                    "active": true,
+                    "lable": "American Eskimo Dog"
+                },
+                "american_hairless_terrier": {
+                    "active": true,
+                    "lable": "American Hairless Terrier"
+                },
+                "american_staffordshire_terrier": {
+                    "active": true,
+                    "lable": "American Staffordshire Terrier"
+                },
+                "american_water_spaniel": {
+                    "active": true,
+                    "lable": "American Water Spaniel"
+                },
+                "anatolian_shepherd": {
+                    "active": true,
+                    "lable": "Anatolian Shepherd"
+                },
+                "appenzell_mountain_dog": {
+                    "active": true,
+                    "lable": "Appenzell Mountain Dog"
+                },
+                "australian_cattle_dog_blue_heeler": {
+                    "active": true,
+                    "lable": "Australian Cattle Dog / Blue Heeler"
+                },
+                "australian_kelpie": {
+                    "active": true,
+                    "lable": "Australian Kelpie"
+                },
+                "australian_shepherd": {
+                    "active": true,
+                    "lable": "Australian Shepherd"
+                },
+                "australian_terrier": {
+                    "active": true,
+                    "lable": "Australian Terrier"
+                },
+                "basenji": {
+                    "active": true,
+                    "lable": "Basenji"
+                },
+                "basset_hound": {
+                    "active": true,
+                    "lable": "Basset Hound"
+                },
+                "beagle": {
+                    "active": true,
+                    "lable": "Beagle"
+                },
+                "bearded_collie": {
+                    "active": true,
+                    "lable": "Bearded Collie"
+                },
+                "beauceron": {
+                    "active": true,
+                    "lable": "Beauceron"
+                },
+                "bedlington_terrier": {
+                    "active": true,
+                    "lable": "Bedlington Terrier"
+                },
+                "belgian_shepherd_laekenois": {
+                    "active": true,
+                    "lable": "Belgian Shepherd / Laekenois"
+                },
+                "belgian_shepherd_malinois": {
+                    "active": true,
+                    "lable": "Belgian Shepherd / Malinois"
+                },
+                "belgian_shepherd_sheepdog": {
+                    "active": true,
+                    "lable": "Belgian Shepherd / Sheepdog"
+                },
+                "belgian_shepherd_tervuren": {
+                    "active": true,
+                    "lable": "Belgian Shepherd / Tervuren"
+                },
+                "bernese_mountain_dog": {
+                    "active": true,
+                    "lable": "Bernese Mountain Dog"
+                },
+                "bichon_frise": {
+                    "active": true,
+                    "lable": "Bichon Frise"
+                },
+                "black_labrador_retriever": {
+                    "active": true,
+                    "lable": "Black Labrador Retriever"
+                },
+                "black_mouth_cur": {
+                    "active": true,
+                    "lable": "Black Mouth Cur"
+                },
+                "black_russian_terrier": {
+                    "active": true,
+                    "lable": "Black Russian Terrier"
+                },
+                "black_and_tan_coonhound": {
+                    "active": true,
+                    "lable": "Black And Tan Coonhound"
+                },
+                "bloodhound": {
+                    "active": true,
+                    "lable": "Bloodhound"
+                },
+                "blue_lacy": {
+                    "active": true,
+                    "lable": "Blue Lacy"
+                },
+                "bluetick_coonhound": {
+                    "active": true,
+                    "lable": "Bluetick Coonhound"
+                },
+                "boerboel": {
+                    "active": true,
+                    "lable": "Boerboel"
+                },
+                "bolognese": {
+                    "active": true,
+                    "lable": "Bolognese"
+                },
+                "border_collie": {
+                    "active": true,
+                    "lable": "Border Collie"
+                },
+                "border_terrier": {
+                    "active": true,
+                    "lable": "Border Terrier"
+                },
+                "borzoi": {
+                    "active": true,
+                    "lable": "Borzoi"
+                },
+                "boston_terrier": {
+                    "active": true,
+                    "lable": "Boston Terrier"
+                },
+                "bouvier_des_flanders": {
+                    "active": true,
+                    "lable": "Bouvier Des Flanders"
+                },
+                "boxer": {
+                    "active": true,
+                    "lable": "Boxer"
+                },
+                "boykin_spaniel": {
+                    "active": true,
+                    "lable": "Boykin Spaniel"
+                },
+                "briard": {
+                    "active": true,
+                    "lable": "Briard"
+                },
+                "brittany_spaniel": {
+                    "active": true,
+                    "lable": "Brittany Spaniel"
+                },
+                "brussels_griffon": {
+                    "active": true,
+                    "lable": "Brussels Griffon"
+                },
+                "bull_terrier": {
+                    "active": true,
+                    "lable": "Bull Terrier"
+                },
+                "bullmastiff": {
+                    "active": true,
+                    "lable": "Bullmastiff"
+                },
+                "cairn_terrier": {
+                    "active": true,
+                    "lable": "Cairn Terrier"
+                },
+                "canaan_dog": {
+                    "active": true,
+                    "lable": "Canaan Dog"
+                },
+                "cane_corso_mastiff": {
+                    "active": true,
+                    "lable": "Cane Corso Mastiff"
+                },
+                "carolina_dog": {
+                    "active": true,
+                    "lable": "Carolina Dog"
+                },
+                "catahoula_leopard_dog": {
+                    "active": true,
+                    "lable": "Catahoula Leopard Dog"
+                },
+                "cattle_dog": {
+                    "active": true,
+                    "lable": "Cattle Dog"
+                },
+                "caucasian_sheepdog_caucasian_ovtcharka": {
+                    "active": true,
+                    "lable": "Caucasian Sheepdog / Caucasian Ovtcharka"
+                },
+                "cavalier_king_charles_spaniel": {
+                    "active": true,
+                    "lable": "Cavalier King Charles Spaniel"
+                },
+                "chesapeake_bay_retriever": {
+                    "active": true,
+                    "lable": "Chesapeake Bay Retriever"
+                },
+                "chihuahua": {
+                    "active": true,
+                    "lable": "Chihuahua"
+                },
+                "chinese_crested_dog": {
+                    "active": true,
+                    "lable": "Chinese Crested Dog"
+                },
+                "chinese_foo_dog": {
+                    "active": true,
+                    "lable": "Chinese Foo Dog"
+                },
+                "chinook": {
+                    "active": true,
+                    "lable": "Chinook"
+                },
+                "chocolate_labrador_retriever": {
+                    "active": true,
+                    "lable": "Chocolate Labrador Retriever"
+                },
+                "chow_chow": {
+                    "active": true,
+                    "lable": "Chow Chow"
+                },
+                "cirneco_delletna": {
+                    "active": true,
+                    "lable": "Cirneco Dell'Etna"
+                },
+                "clumber_spaniel": {
+                    "active": true,
+                    "lable": "Clumber Spaniel"
+                },
+                "cockapoo": {
+                    "active": true,
+                    "lable": "Cockapoo"
+                },
+                "cocker_spaniel": {
+                    "active": true,
+                    "lable": "Cocker Spaniel"
+                },
+                "collie": {
+                    "active": true,
+                    "lable": "Collie"
+                },
+                "coonhound": {
+                    "active": true,
+                    "lable": "Coonhound"
+                },
+                "corgi": {
+                    "active": true,
+                    "lable": "Corgi"
+                },
+                "coton_de_tulear": {
+                    "active": true,
+                    "lable": "Coton De Tulear"
+                },
+                "curly_coated_retriever": {
+                    "active": true,
+                    "lable": "Curly-Coated Retriever"
+                },
+                "dachshund": {
+                    "active": true,
+                    "lable": "Dachshund"
+                },
+                "dalmatian": {
+                    "active": true,
+                    "lable": "Dalmatian"
+                },
+                "dandi_dinmont_terrier": {
+                    "active": true,
+                    "lable": "Dandi Dinmont Terrier"
+                },
+                "doberman_pinscher": {
+                    "active": true,
+                    "lable": "Doberman Pinscher"
+                },
+                "dogo_argentino": {
+                    "active": true,
+                    "lable": "Dogo Argentino"
+                },
+                "dogue_de_bordeaux": {
+                    "active": true,
+                    "lable": "Dogue De Bordeaux"
+                },
+                "dutch_shepherd": {
+                    "active": true,
+                    "lable": "Dutch Shepherd"
+                },
+                "english_bulldog": {
+                    "active": true,
+                    "lable": "English Bulldog"
+                },
+                "english_cocker_spaniel": {
+                    "active": true,
+                    "lable": "English Cocker Spaniel"
+                },
+                "english_coonhound": {
+                    "active": true,
+                    "lable": "English Coonhound"
+                },
+                "english_pointer": {
+                    "active": true,
+                    "lable": "English Pointer"
+                },
+                "english_setter": {
+                    "active": true,
+                    "lable": "English Setter"
+                },
+                "english_shepherd": {
+                    "active": true,
+                    "lable": "English Shepherd"
+                },
+                "english_springer_spaniel": {
+                    "active": true,
+                    "lable": "English Springer Spaniel"
+                },
+                "english_toy_spaniel": {
+                    "active": true,
+                    "lable": "English Toy Spaniel"
+                },
+                "entlebucher": {
+                    "active": true,
+                    "lable": "Entlebucher"
+                },
+                "eskimo_dog": {
+                    "active": true,
+                    "lable": "Eskimo Dog"
+                },
+                "feist": {
+                    "active": true,
+                    "lable": "Feist"
+                },
+                "field_spaniel": {
+                    "active": true,
+                    "lable": "Field Spaniel"
+                },
+                "fila_brasileiro": {
+                    "active": true,
+                    "lable": "Fila Brasileiro"
+                },
+                "finnish_lapphund": {
+                    "active": true,
+                    "lable": "Finnish Lapphund"
+                },
+                "finnish_spitz": {
+                    "active": true,
+                    "lable": "Finnish Spitz"
+                },
+                "flat_coated_retriever": {
+                    "active": true,
+                    "lable": "Flat-Coated Retriever"
+                },
+                "fox_terrier": {
+                    "active": true,
+                    "lable": "Fox Terrier"
+                },
+                "foxhound": {
+                    "active": true,
+                    "lable": "Foxhound"
+                },
+                "french_bulldog": {
+                    "active": true,
+                    "lable": "French Bulldog"
+                },
+                "galgo_spanish_greyhound": {
+                    "active": true,
+                    "lable": "Galgo Spanish Greyhound"
+                },
+                "german_pinscher": {
+                    "active": true,
+                    "lable": "German Pinscher"
+                },
+                "german_shepherd_dog": {
+                    "active": true,
+                    "lable": "German Shepherd Dog"
+                },
+                "german_shorthaired_pointer": {
+                    "active": true,
+                    "lable": "German Shorthaired Pointer"
+                },
+                "german_spitz": {
+                    "active": true,
+                    "lable": "German Spitz"
+                },
+                "german_wirehaired_pointer": {
+                    "active": true,
+                    "lable": "German Wirehaired Pointer"
+                },
+                "giant_schnauzer": {
+                    "active": true,
+                    "lable": "Giant Schnauzer"
+                },
+                "glen_of_imaal_terrier": {
+                    "active": true,
+                    "lable": "Glen Of Imaal Terrier"
+                },
+                "golden_retriever": {
+                    "active": true,
+                    "lable": "Golden Retriever"
+                },
+                "gordon_setter": {
+                    "active": true,
+                    "lable": "Gordon Setter"
+                },
+                "great_dane": {
+                    "active": true,
+                    "lable": "Great Dane"
+                },
+                "great_pyrenees": {
+                    "active": true,
+                    "lable": "Great Pyrenees"
+                },
+                "greater_swiss_mountain_dog": {
+                    "active": true,
+                    "lable": "Greater Swiss Mountain Dog"
+                },
+                "greyhound": {
+                    "active": true,
+                    "lable": "Greyhound"
+                },
+                "hamiltonstovare": {
+                    "active": true,
+                    "lable": "Hamiltonstovare"
+                },
+                "harrier": {
+                    "active": true,
+                    "lable": "Harrier"
+                },
+                "havanese": {
+                    "active": true,
+                    "lable": "Havanese"
+                },
+                "hound": {
+                    "active": true,
+                    "lable": "Hound"
+                },
+                "hovawart": {
+                    "active": true,
+                    "lable": "Hovawart"
+                },
+                "husky": {
+                    "active": true,
+                    "lable": "Husky"
+                },
+                "ibizan_hound": {
+                    "active": true,
+                    "lable": "Ibizan Hound"
+                },
+                "icelandic_sheepdog": {
+                    "active": true,
+                    "lable": "Icelandic Sheepdog"
+                },
+                "illyrian_sheepdog": {
+                    "active": true,
+                    "lable": "Illyrian Sheepdog"
+                },
+                "irish_setter": {
+                    "active": true,
+                    "lable": "Irish Setter"
+                },
+                "irish_terrier": {
+                    "active": true,
+                    "lable": "Irish Terrier"
+                },
+                "irish_water_spaniel": {
+                    "active": true,
+                    "lable": "Irish Water Spaniel"
+                },
+                "irish_wolfhound": {
+                    "active": true,
+                    "lable": "Irish Wolfhound"
+                },
+                "italian_greyhound": {
+                    "active": true,
+                    "lable": "Italian Greyhound"
+                },
+                "italian_spinone": {
+                    "active": true,
+                    "lable": "Italian Spinone"
+                },
+                "jack_russell_terrier": {
+                    "active": true,
+                    "lable": "Jack Russell Terrier"
+                },
+                "jack_russell_terrier_parson": {
+                    "active": true,
+                    "lable": "Jack Russell Terrier (Parson)"
+                },
+                "japanese_chin": {
+                    "active": true,
+                    "lable": "Japanese Chin"
+                },
+                "jindo": {
+                    "active": true,
+                    "lable": "Jindo"
+                },
+                "kai_dog": {
+                    "active": true,
+                    "lable": "Kai Dog"
+                },
+                "karelian_bear_dog": {
+                    "active": true,
+                    "lable": "Karelian Bear Dog"
+                },
+                "keeshond": {
+                    "active": true,
+                    "lable": "Keeshond"
+                },
+                "kerry_blue_terrier": {
+                    "active": true,
+                    "lable": "Kerry Blue Terrier"
+                },
+                "kishu": {
+                    "active": true,
+                    "lable": "Kishu"
+                },
+                "klee_kai": {
+                    "active": true,
+                    "lable": "Klee Kai"
+                },
+                "komondor": {
+                    "active": true,
+                    "lable": "Komondor"
+                },
+                "kuvasz": {
+                    "active": true,
+                    "lable": "Kuvasz"
+                },
+                "kyi_leo": {
+                    "active": true,
+                    "lable": "Kyi Leo"
+                },
+                "labrador_retriever": {
+                    "active": true,
+                    "lable": "Labrador Retriever"
+                },
+                "lakeland_terrier": {
+                    "active": true,
+                    "lable": "Lakeland Terrier"
+                },
+                "lancashire_heeler": {
+                    "active": true,
+                    "lable": "Lancashire Heeler"
+                },
+                "leonberger": {
+                    "active": true,
+                    "lable": "Leonberger"
+                },
+                "lhasa_apso": {
+                    "active": true,
+                    "lable": "Lhasa Apso"
+                },
+                "lowchen": {
+                    "active": true,
+                    "lable": "Lowchen"
+                },
+                "maltese": {
+                    "active": true,
+                    "lable": "Maltese"
+                },
+                "manchester_terrier": {
+                    "active": true,
+                    "lable": "Manchester Terrier"
+                },
+                "maremma_sheepdog": {
+                    "active": true,
+                    "lable": "Maremma Sheepdog"
+                },
+                "mastiff": {
+                    "active": true,
+                    "lable": "Mastiff"
+                },
+                "mcnab": {
+                    "active": true,
+                    "lable": "McNab"
+                },
+                "miniature_pinscher": {
+                    "active": true,
+                    "lable": "Miniature Pinscher"
+                },
+                "miniature_schnauzer": {
+                    "active": true,
+                    "lable": "Miniature Schnauzer"
+                },
+                "mixed_breed": {
+                    "active": true,
+                    "lable": "Mixed Breed"
+                },
+                "mountain_cur": {
+                    "active": true,
+                    "lable": "Mountain Cur"
+                },
+                "mountain_dog": {
+                    "active": true,
+                    "lable": "Mountain Dog"
+                },
+                "munsterlander": {
+                    "active": true,
+                    "lable": "Munsterlander"
+                },
+                "neapolitan_mastiff": {
+                    "active": true,
+                    "lable": "Neapolitan Mastiff"
+                },
+                "new_guinea_singing_dog": {
+                    "active": true,
+                    "lable": "New Guinea Singing Dog"
+                },
+                "newfoundland_dog": {
+                    "active": true,
+                    "lable": "Newfoundland Dog"
+                },
+                "norfolk_terrier": {
+                    "active": true,
+                    "lable": "Norfolk Terrier"
+                },
+                "norwegian_buhund": {
+                    "active": true,
+                    "lable": "Norwegian Buhund"
+                },
+                "norwegian_elkhound": {
+                    "active": true,
+                    "lable": "Norwegian Elkhound"
+                },
+                "norwegian_lundehund": {
+                    "active": true,
+                    "lable": "Norwegian Lundehund"
+                },
+                "norwich_terrier": {
+                    "active": true,
+                    "lable": "Norwich Terrier"
+                },
+                "nova_scotia_duck_tolling_retriever": {
+                    "active": true,
+                    "lable": "Nova Scotia Duck Tolling Retriever"
+                },
+                "old_english_sheepdog": {
+                    "active": true,
+                    "lable": "Old English Sheepdog"
+                },
+                "otterhound": {
+                    "active": true,
+                    "lable": "Otterhound"
+                },
+                "papillon": {
+                    "active": true,
+                    "lable": "Papillon"
+                },
+                "patterdale_terrier_fell_terrier": {
+                    "active": true,
+                    "lable": "Patterdale Terrier / Fell Terrier"
+                },
+                "pekingese": {
+                    "active": true,
+                    "lable": "Pekingese"
+                },
+                "peruvian_inca_orchid": {
+                    "active": true,
+                    "lable": "Peruvian Inca Orchid"
+                },
+                "petit_basset_griffon_vendeen": {
+                    "active": true,
+                    "lable": "Petit Basset Griffon Vendeen"
+                },
+                "pharaoh_hound": {
+                    "active": true,
+                    "lable": "Pharaoh Hound"
+                },
+                "pit_bull_terrier": {
+                    "active": true,
+                    "lable": "Pit Bull Terrier"
+                },
+                "plott_hound": {
+                    "active": true,
+                    "lable": "Plott Hound"
+                },
+                "podengo_portugueso": {
+                    "active": true,
+                    "lable": "Podengo Portugueso"
+                },
+                "pointer": {
+                    "active": true,
+                    "lable": "Pointer"
+                },
+                "polish_lowland_sheepdog": {
+                    "active": true,
+                    "lable": "Polish Lowland Sheepdog"
+                },
+                "pomeranian": {
+                    "active": true,
+                    "lable": "Pomeranian"
+                },
+                "poodle": {
+                    "active": true,
+                    "lable": "Poodle"
+                },
+                "portuguese_water_dog": {
+                    "active": true,
+                    "lable": "Portuguese Water Dog"
+                },
+                "presa_canario": {
+                    "active": true,
+                    "lable": "Presa Canario"
+                },
+                "pug": {
+                    "active": true,
+                    "lable": "Pug"
+                },
+                "puli": {
+                    "active": true,
+                    "lable": "Puli"
+                },
+                "pumi": {
+                    "active": true,
+                    "lable": "Pumi"
+                },
+                "rat_terrier": {
+                    "active": true,
+                    "lable": "Rat Terrier"
+                },
+                "redbone_coonhound": {
+                    "active": true,
+                    "lable": "Redbone Coonhound"
+                },
+                "retriever": {
+                    "active": true,
+                    "lable": "Retriever"
+                },
+                "rhodesian_ridgeback": {
+                    "active": true,
+                    "lable": "Rhodesian Ridgeback"
+                },
+                "rottweiler": {
+                    "active": true,
+                    "lable": "Rottweiler"
+                },
+                "rough_collie": {
+                    "active": true,
+                    "lable": "Rough Collie"
+                },
+                "saint_bernard_st_bernard": {
+                    "active": true,
+                    "lable": "Saint Bernard / St. Bernard"
+                },
+                "saluki": {
+                    "active": true,
+                    "lable": "Saluki"
+                },
+                "samoyed": {
+                    "active": true,
+                    "lable": "Samoyed"
+                },
+                "sarplaninac": {
+                    "active": true,
+                    "lable": "Sarplaninac"
+                },
+                "schipperke": {
+                    "active": true,
+                    "lable": "Schipperke"
+                },
+                "schnauzer": {
+                    "active": true,
+                    "lable": "Schnauzer"
+                },
+                "scottish_deerhound": {
+                    "active": true,
+                    "lable": "Scottish Deerhound"
+                },
+                "scottish_terrier_scottie": {
+                    "active": true,
+                    "lable": "Scottish Terrier Scottie"
+                },
+                "sealyham_terrier": {
+                    "active": true,
+                    "lable": "Sealyham Terrier"
+                },
+                "setter": {
+                    "active": true,
+                    "lable": "Setter"
+                },
+                "shar_pei": {
+                    "active": true,
+                    "lable": "Shar Pei"
+                },
+                "sheep_dog": {
+                    "active": true,
+                    "lable": "Sheep Dog"
+                },
+                "shepherd": {
+                    "active": true,
+                    "lable": "Shepherd"
+                },
+                "shetland_sheepdog_sheltie": {
+                    "active": true,
+                    "lable": "Shetland Sheepdog Sheltie"
+                },
+                "shiba_inu": {
+                    "active": true,
+                    "lable": "Shiba Inu"
+                },
+                "shih_tzu": {
+                    "active": true,
+                    "lable": "Shih Tzu"
+                },
+                "siberian_husky": {
+                    "active": true,
+                    "lable": "Siberian Husky"
+                },
+                "silky_terrier": {
+                    "active": true,
+                    "lable": "Silky Terrier"
+                },
+                "skye_terrier": {
+                    "active": true,
+                    "lable": "Skye Terrier"
+                },
+                "sloughi": {
+                    "active": true,
+                    "lable": "Sloughi"
+                },
+                "smooth_collie": {
+                    "active": true,
+                    "lable": "Smooth Collie"
+                },
+                "smooth_fox_terrier": {
+                    "active": true,
+                    "lable": "Smooth Fox Terrier"
+                },
+                "south_russian_ovtcharka": {
+                    "active": true,
+                    "lable": "South Russian Ovtcharka"
+                },
+                "spaniel": {
+                    "active": true,
+                    "lable": "Spaniel"
+                },
+                "spanish_water_dog": {
+                    "active": true,
+                    "lable": "Spanish Water Dog"
+                },
+                "spitz": {
+                    "active": true,
+                    "lable": "Spitz"
+                },
+                "staffordshire_bull_terrier": {
+                    "active": true,
+                    "lable": "Staffordshire Bull Terrier"
+                },
+                "standard_poodle": {
+                    "active": true,
+                    "lable": "Standard Poodle"
+                },
+                "standard_schnauzer": {
+                    "active": true,
+                    "lable": "Standard Schnauzer"
+                },
+                "sussex_spaniel": {
+                    "active": true,
+                    "lable": "Sussex Spaniel"
+                },
+                "swedish_vallhund": {
+                    "active": true,
+                    "lable": "Swedish Vallhund"
+                },
+                "terrier": {
+                    "active": true,
+                    "lable": "Terrier"
+                },
+                "thai_ridgeback": {
+                    "active": true,
+                    "lable": "Thai Ridgeback"
+                },
+                "tibetan_mastiff": {
+                    "active": true,
+                    "lable": "Tibetan Mastiff"
+                },
+                "tibetan_spaniel": {
+                    "active": true,
+                    "lable": "Tibetan Spaniel"
+                },
+                "tibetan_terrier": {
+                    "active": true,
+                    "lable": "Tibetan Terrier"
+                },
+                "tosa_inu": {
+                    "active": true,
+                    "lable": "Tosa Inu"
+                },
+                "toy_fox_terrier": {
+                    "active": true,
+                    "lable": "Toy Fox Terrier"
+                },
+                "treeing_walker_coonhound": {
+                    "active": true,
+                    "lable": "Treeing Walker Coonhound"
+                },
+                "vizsla": {
+                    "active": true,
+                    "lable": "Vizsla"
+                },
+                "weimaraner": {
+                    "active": true,
+                    "lable": "Weimaraner"
+                },
+                "welsh_corgi": {
+                    "active": true,
+                    "lable": "Welsh Corgi"
+                },
+                "welsh_springer_spaniel": {
+                    "active": true,
+                    "lable": "Welsh Springer Spaniel"
+                },
+                "welsh_terrier": {
+                    "active": true,
+                    "lable": "Welsh Terrier"
+                },
+                "west_highland_white_terrier_westie": {
+                    "active": true,
+                    "lable": "West Highland White Terrier Westie"
+                },
+                "wheaten_terrier": {
+                    "active": true,
+                    "lable": "Wheaten Terrier"
+                },
+                "whippet": {
+                    "active": true,
+                    "lable": "Whippet"
+                },
+                "white_german_shepherd": {
+                    "active": true,
+                    "lable": "White German Shepherd"
+                },
+                "wire_fox_terrier": {
+                    "active": true,
+                    "lable": "Wire Fox Terrier"
+                },
+                "wirehaired_dachshund": {
+                    "active": true,
+                    "lable": "Wirehaired Dachshund"
+                },
+                "wirehaired_pointing_griffon": {
+                    "active": true,
+                    "lable": "Wirehaired Pointing Griffon"
+                },
+                "wirehaired_terrier": {
+                    "active": true,
+                    "lable": "Wirehaired Terrier"
+                },
+                "xoloitzcuintle_mexican_hairless": {
+                    "active": true,
+                    "lable": "Xoloitzcuintle / Mexican Hairless"
+                },
+                "yellow_labrador_retriever": {
+                    "active": true,
+                    "lable": "Yellow Labrador Retriever"
+                },
+                "yorkshire_terrier_yorkie": {
+                    "active": true,
+                    "lable": "Yorkshire Terrier Yorkie"
+                }
+            }
+        },
+        "rabbit": {
+            "value": "rabbit",
+            "sub_types": {
+                "american": {
+                    "active": true,
+                    "lable": "American"
+                },
+                "american_fuzzy_lop": {
+                    "active": true,
+                    "lable": "American Fuzzy Lop"
+                },
+                "american_sable": {
+                    "active": true,
+                    "lable": "American Sable"
+                },
+                "angora_rabbit": {
+                    "active": true,
+                    "lable": "Angora Rabbit"
+                },
+                "belgian_hare": {
+                    "active": true,
+                    "lable": "Belgian Hare"
+                },
+                "beveren": {
+                    "active": true,
+                    "lable": "Beveren"
+                },
+                "britannia_petite": {
+                    "active": true,
+                    "lable": "Britannia Petite"
+                },
+                "bunny_rabbit": {
+                    "active": true,
+                    "lable": "Bunny Rabbit"
+                },
+                "californian": {
+                    "active": true,
+                    "lable": "Californian"
+                },
+                "champagne_dargent": {
+                    "active": true,
+                    "lable": "Champagne D'Argent"
+                },
+                "checkered_giant": {
+                    "active": true,
+                    "lable": "Checkered Giant"
+                },
+                "chinchilla": {
+                    "active": true,
+                    "lable": "Chinchilla"
+                },
+                "cinnamon": {
+                    "active": true,
+                    "lable": "Cinnamon"
+                },
+                "creme_dargent": {
+                    "active": true,
+                    "lable": "Creme D'Argent"
+                },
+                "dutch": {
+                    "active": true,
+                    "lable": "Dutch"
+                },
+                "dwarf": {
+                    "active": true,
+                    "lable": "Dwarf"
+                },
+                "dwarf_eared": {
+                    "active": true,
+                    "lable": "Dwarf Eared"
+                },
+                "english_lop": {
+                    "active": true,
+                    "lable": "English Lop"
+                },
+                "english_spot": {
+                    "active": true,
+                    "lable": "English Spot"
+                },
+                "flemish_giant": {
+                    "active": true,
+                    "lable": "Flemish Giant"
+                },
+                "florida_white": {
+                    "active": true,
+                    "lable": "Florida White"
+                },
+                "french_lop": {
+                    "active": true,
+                    "lable": "French Lop"
+                },
+                "harlequin": {
+                    "active": true,
+                    "lable": "Harlequin"
+                },
+                "havana": {
+                    "active": true,
+                    "lable": "Havana"
+                },
+                "himalayan": {
+                    "active": true,
+                    "lable": "Himalayan"
+                },
+                "holland_lop": {
+                    "active": true,
+                    "lable": "Holland Lop"
+                },
+                "hotot": {
+                    "active": true,
+                    "lable": "Hotot"
+                },
+                "jersey_wooly": {
+                    "active": true,
+                    "lable": "Jersey Wooly"
+                },
+                "lilac": {
+                    "active": true,
+                    "lable": "Lilac"
+                },
+                "lionhead": {
+                    "active": true,
+                    "lable": "Lionhead"
+                },
+                "lop_eared": {
+                    "active": true,
+                    "lable": "Lop Eared"
+                },
+                "mini_lop": {
+                    "active": true,
+                    "lable": "Mini Lop"
+                },
+                "mini_rex": {
+                    "active": true,
+                    "lable": "Mini Rex"
+                },
+                "netherland_dwarf": {
+                    "active": true,
+                    "lable": "Netherland Dwarf"
+                },
+                "new_zealand": {
+                    "active": true,
+                    "lable": "New Zealand"
+                },
+                "palomino": {
+                    "active": true,
+                    "lable": "Palomino"
+                },
+                "polish": {
+                    "active": true,
+                    "lable": "Polish"
+                },
+                "rex": {
+                    "active": true,
+                    "lable": "Rex"
+                },
+                "rhinelander": {
+                    "active": true,
+                    "lable": "Rhinelander"
+                },
+                "satin": {
+                    "active": true,
+                    "lable": "Satin"
+                },
+                "silver": {
+                    "active": true,
+                    "lable": "Silver"
+                },
+                "silver_fox": {
+                    "active": true,
+                    "lable": "Silver Fox"
+                },
+                "silver_marten": {
+                    "active": true,
+                    "lable": "Silver Marten"
+                },
+                "tan": {
+                    "active": true,
+                    "lable": "Tan"
+                }
+            }
+        },
+        "scales_fins": {
+            "value": "scales_fins",
+            "sub_types": {
+                "asian_box": {
+                    "active": true,
+                    "lable": "Asian Box"
+                },
+                "ball_python": {
+                    "active": true,
+                    "lable": "Ball Python"
+                },
+                "bearded_dragon": {
+                    "active": true,
+                    "lable": "Bearded Dragon"
+                },
+                "boa": {
+                    "active": true,
+                    "lable": "Boa"
+                },
+                "boa_constrictor": {
+                    "active": true,
+                    "lable": "Boa Constrictor"
+                },
+                "box": {
+                    "active": true,
+                    "lable": "Box"
+                },
+                "bull": {
+                    "active": true,
+                    "lable": "Bull"
+                },
+                "bullfrog": {
+                    "active": true,
+                    "lable": "Bullfrog"
+                },
+                "burmese_python": {
+                    "active": true,
+                    "lable": "Burmese Python"
+                },
+                "chameleon": {
+                    "active": true,
+                    "lable": "Chameleon"
+                },
+                "corn_rat": {
+                    "active": true,
+                    "lable": "Corn / Rat"
+                },
+                "eastern_box": {
+                    "active": true,
+                    "lable": "Eastern Box"
+                },
+                "fire_salamander": {
+                    "active": true,
+                    "lable": "Fire Salamander"
+                },
+                "fire_bellied": {
+                    "active": true,
+                    "lable": "Fire-Bellied"
+                },
+                "fire_bellied_newt": {
+                    "active": true,
+                    "lable": "Fire-Bellied Newt"
+                },
+                "florida_box": {
+                    "active": true,
+                    "lable": "Florida Box"
+                },
+                "freshwater_fish": {
+                    "active": true,
+                    "lable": "Freshwater Fish"
+                },
+                "frog": {
+                    "active": true,
+                    "lable": "Frog"
+                },
+                "garter_ribbon": {
+                    "active": true,
+                    "lable": "Garter / Ribbon"
+                },
+                "gecko": {
+                    "active": true,
+                    "lable": "Gecko"
+                },
+                "goldfish": {
+                    "active": true,
+                    "lable": "Goldfish"
+                },
+                "hermit_crab": {
+                    "active": true,
+                    "lable": "Hermit Crab"
+                },
+                "horned_frog": {
+                    "active": true,
+                    "lable": "Horned Frog"
+                },
+                "iguana": {
+                    "active": true,
+                    "lable": "Iguana"
+                },
+                "king_milk": {
+                    "active": true,
+                    "lable": "King / Milk"
+                },
+                "leopard": {
+                    "active": true,
+                    "lable": "Leopard"
+                },
+                "leopard_frog": {
+                    "active": true,
+                    "lable": "Leopard Frog"
+                },
+                "lizard": {
+                    "active": true,
+                    "lable": "Lizard"
+                },
+                "mississippi_map_turtle": {
+                    "active": true,
+                    "lable": "Mississippi Map Turtle"
+                },
+                "monitor": {
+                    "active": true,
+                    "lable": "Monitor"
+                },
+                "mud": {
+                    "active": true,
+                    "lable": "Mud"
+                },
+                "musk": {
+                    "active": true,
+                    "lable": "Musk"
+                },
+                "oregon_newt": {
+                    "active": true,
+                    "lable": "Oregon Newt"
+                },
+                "ornamental_box": {
+                    "active": true,
+                    "lable": "Ornamental Box"
+                }
+            }
+        },
+        "other": {
+            "value": "other",
+            "sub_types": {
+                "paddle_tailed_newt": {
+                    "active": true,
+                    "lable": "Paddle Tailed Newt"
+                },
+                "painted": {
+                    "active": true,
+                    "lable": "Painted"
+                },
+                "python": {
+                    "active": true,
+                    "lable": "Python"
+                },
+                "red_foot": {
+                    "active": true,
+                    "lable": "Red Foot"
+                },
+                "red_eared_slider": {
+                    "active": true,
+                    "lable": "Red-Eared Slider"
+                },
+                "russian": {
+                    "active": true,
+                    "lable": "Russian"
+                },
+                "saltwater_fish": {
+                    "active": true,
+                    "lable": "Saltwater Fish"
+                },
+                "scorpion": {
+                    "active": true,
+                    "lable": "Scorpion"
+                },
+                "snake": {
+                    "active": true,
+                    "lable": "Snake"
+                },
+                "snapping": {
+                    "active": true,
+                    "lable": "Snapping"
+                },
+                "soft_shell": {
+                    "active": true,
+                    "lable": "Soft Shell"
+                },
+                "southern": {
+                    "active": true,
+                    "lable": "Southern"
+                },
+                "sulcata": {
+                    "active": true,
+                    "lable": "Sulcata"
+                },
+                "tarantula": {
+                    "active": true,
+                    "lable": "Tarantula"
+                },
+                "three_toed_box": {
+                    "active": true,
+                    "lable": "Three-Toed Box"
+                },
+                "tiger_salamander": {
+                    "active": true,
+                    "lable": "Tiger Salamander"
+                },
+                "toad": {
+                    "active": true,
+                    "lable": "Toad"
+                },
+                "tortoise": {
+                    "active": true,
+                    "lable": "Tortoise"
+                },
+                "tree_frog": {
+                    "active": true,
+                    "lable": "Tree Frog"
+                },
+                "turtle": {
+                    "active": true,
+                    "lable": "Turtle"
+                },
+                "turtle_snapping": {
+                    "active": true,
+                    "lable": "Turtle - Snapping"
+                },
+                "uromastyx": {
+                    "active": true,
+                    "lable": "Uromastyx"
+                },
+                "water_dragon": {
+                    "active": true,
+                    "lable": "Water Dragon"
+                },
+                "yellow_bellied_slider": {
+                    "active": true,
+                    "lable": "Yellow-Bellied Slider"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                },
+                "abyssinian": {
+                    "active": true,
+                    "lable": "Abyssinian"
+                },
+                "alpaca": {
+                    "active": true,
+                    "lable": "Alpaca"
+                },
+                "alpine": {
+                    "active": true,
+                    "lable": "Alpine"
+                },
+                "angora": {
+                    "active": true,
+                    "lable": "Angora"
+                },
+                "angus": {
+                    "active": true,
+                    "lable": "Angus"
+                },
+                "appaloosa": {
+                    "active": true,
+                    "lable": "Appaloosa"
+                },
+                "arabian": {
+                    "active": true,
+                    "lable": "Arabian"
+                },
+                "asian_box": {
+                    "active": true,
+                    "lable": "Asian Box"
+                },
+                "ball_python": {
+                    "active": true,
+                    "lable": "Ball Python"
+                },
+                "barbados": {
+                    "active": true,
+                    "lable": "Barbados"
+                },
+                "bearded_dragon": {
+                    "active": true,
+                    "lable": "Bearded Dragon"
+                },
+                "belgian": {
+                    "active": true,
+                    "lable": "Belgian"
+                },
+                "boa": {
+                    "active": true,
+                    "lable": "Boa"
+                },
+                "boa_constrictor": {
+                    "active": true,
+                    "lable": "Boa Constrictor"
+                },
+                "boer": {
+                    "active": true,
+                    "lable": "Boer"
+                },
+                "box": {
+                    "active": true,
+                    "lable": "Box"
+                },
+                "bull": {
+                    "active": true,
+                    "lable": "Bull"
+                },
+                "bullfrog": {
+                    "active": true,
+                    "lable": "Bullfrog"
+                },
+                "burmese_python": {
+                    "active": true,
+                    "lable": "Burmese Python"
+                },
+                "chameleon": {
+                    "active": true,
+                    "lable": "Chameleon"
+                },
+                "chinchilla": {
+                    "active": true,
+                    "lable": "Chinchilla"
+                },
+                "clydesdale": {
+                    "active": true,
+                    "lable": "Clydesdale"
+                },
+                "connemara": {
+                    "active": true,
+                    "lable": "Connemara"
+                },
+                "corn_rat": {
+                    "active": true,
+                    "lable": "Corn / Rat"
+                },
+                "cow": {
+                    "active": true,
+                    "lable": "Cow"
+                },
+                "curly_horse": {
+                    "active": true,
+                    "lable": "Curly Horse"
+                },
+                "degu": {
+                    "active": true,
+                    "lable": "Degu"
+                },
+                "donkey": {
+                    "active": true,
+                    "lable": "Donkey"
+                },
+                "draft": {
+                    "active": true,
+                    "lable": "Draft"
+                },
+                "duroc": {
+                    "active": true,
+                    "lable": "Duroc"
+                },
+                "dwarf_hamster": {
+                    "active": true,
+                    "lable": "Dwarf Hamster"
+                },
+                "eastern_box": {
+                    "active": true,
+                    "lable": "Eastern Box"
+                },
+                "ferret": {
+                    "active": true,
+                    "lable": "Ferret"
+                },
+                "fire_salamander": {
+                    "active": true,
+                    "lable": "Fire Salamander"
+                },
+                "fire_bellied": {
+                    "active": true,
+                    "lable": "Fire-Bellied"
+                },
+                "fire_bellied_newt": {
+                    "active": true,
+                    "lable": "Fire-Bellied Newt"
+                },
+                "florida_box": {
+                    "active": true,
+                    "lable": "Florida Box"
+                },
+                "freshwater_fish": {
+                    "active": true,
+                    "lable": "Freshwater Fish"
+                },
+                "friesian": {
+                    "active": true,
+                    "lable": "Friesian"
+                },
+                "frog": {
+                    "active": true,
+                    "lable": "Frog"
+                },
+                "gaited": {
+                    "active": true,
+                    "lable": "Gaited"
+                },
+                "garter_ribbon": {
+                    "active": true,
+                    "lable": "Garter / Ribbon"
+                },
+                "gecko": {
+                    "active": true,
+                    "lable": "Gecko"
+                },
+                "gerbil": {
+                    "active": true,
+                    "lable": "Gerbil"
+                },
+                "goat": {
+                    "active": true,
+                    "lable": "Goat"
+                },
+                "goldfish": {
+                    "active": true,
+                    "lable": "Goldfish"
+                },
+                "grade": {
+                    "active": true,
+                    "lable": "Grade"
+                },
+                "guinea_pig": {
+                    "active": true,
+                    "lable": "Guinea Pig"
+                },
+                "haflinger": {
+                    "active": true,
+                    "lable": "Haflinger"
+                },
+                "hampshire": {
+                    "active": true,
+                    "lable": "Hampshire"
+                },
+                "hamster": {
+                    "active": true,
+                    "lable": "Hamster"
+                },
+                "hedgehog": {
+                    "active": true,
+                    "lable": "Hedgehog"
+                },
+                "hermit_crab": {
+                    "active": true,
+                    "lable": "Hermit Crab"
+                },
+                "holstein": {
+                    "active": true,
+                    "lable": "Holstein"
+                },
+                "horned_frog": {
+                    "active": true,
+                    "lable": "Horned Frog"
+                },
+                "icelandic_horse": {
+                    "active": true,
+                    "lable": "Icelandic Horse"
+                },
+                "iguana": {
+                    "active": true,
+                    "lable": "Iguana"
+                },
+                "jersey": {
+                    "active": true,
+                    "lable": "Jersey"
+                },
+                "king_milk": {
+                    "active": true,
+                    "lable": "King / Milk"
+                },
+                "lamancha": {
+                    "active": true,
+                    "lable": "LaMancha"
+                },
+                "landrace": {
+                    "active": true,
+                    "lable": "Landrace"
+                },
+                "leopard": {
+                    "active": true,
+                    "lable": "Leopard"
+                },
+                "leopard_frog": {
+                    "active": true,
+                    "lable": "Leopard Frog"
+                },
+                "lipizzan": {
+                    "active": true,
+                    "lable": "Lipizzan"
+                },
+                "lizard": {
+                    "active": true,
+                    "lable": "Lizard"
+                },
+                "llama": {
+                    "active": true,
+                    "lable": "Llama"
+                },
+                "merino": {
+                    "active": true,
+                    "lable": "Merino"
+                },
+                "miniature_horse": {
+                    "active": true,
+                    "lable": "Miniature Horse"
+                },
+                "mississippi_map_turtle": {
+                    "active": true,
+                    "lable": "Mississippi Map Turtle"
+                },
+                "missouri_foxtrotter": {
+                    "active": true,
+                    "lable": "Missouri Foxtrotter"
+                },
+                "monitor": {
+                    "active": true,
+                    "lable": "Monitor"
+                },
+                "morgan": {
+                    "active": true,
+                    "lable": "Morgan"
+                },
+                "mouflan": {
+                    "active": true,
+                    "lable": "Mouflan"
+                },
+                "mouse": {
+                    "active": true,
+                    "lable": "Mouse"
+                },
+                "mud": {
+                    "active": true,
+                    "lable": "Mud"
+                },
+                "mule": {
+                    "active": true,
+                    "lable": "Mule"
+                },
+                "musk": {
+                    "active": true,
+                    "lable": "Musk"
+                },
+                "mustang": {
+                    "active": true,
+                    "lable": "Mustang"
+                },
+                "myotonic_fainting": {
+                    "active": true,
+                    "lable": "Myotonic / Fainting"
+                },
+                "nigerian_dwarf": {
+                    "active": true,
+                    "lable": "Nigerian Dwarf"
+                },
+                "nubian": {
+                    "active": true,
+                    "lable": "Nubian"
+                },
+                "oberhasli": {
+                    "active": true,
+                    "lable": "Oberhasli"
+                },
+                "oregon_newt": {
+                    "active": true,
+                    "lable": "Oregon Newt"
+                },
+                "ornamental_box": {
+                    "active": true,
+                    "lable": "Ornamental Box"
+                },
+                "paint_pinto": {
+                    "active": true,
+                    "lable": "Paint / Pinto"
+                },
+                "palomino": {
+                    "active": true,
+                    "lable": "Palomino"
+                },
+                "paso_fino": {
+                    "active": true,
+                    "lable": "Paso Fino"
+                },
+                "percheron": {
+                    "active": true,
+                    "lable": "Percheron"
+                },
+                "peruvian": {
+                    "active": true,
+                    "lable": "Peruvian"
+                },
+                "peruvian_paso": {
+                    "active": true,
+                    "lable": "Peruvian Paso"
+                },
+                "pig": {
+                    "active": true,
+                    "lable": "Pig"
+                },
+                "pony": {
+                    "active": true,
+                    "lable": "Pony"
+                },
+                "pony_of_the_americas": {
+                    "active": true,
+                    "lable": "Pony Of The Americas"
+                },
+                "pot_bellied": {
+                    "active": true,
+                    "lable": "Pot Bellied"
+                },
+                "prairie_dog": {
+                    "active": true,
+                    "lable": "Prairie Dog"
+                },
+                "pygmy": {
+                    "active": true,
+                    "lable": "Pygmy"
+                },
+                "quarterhorse": {
+                    "active": true,
+                    "lable": "Quarterhorse"
+                },
+                "rat": {
+                    "active": true,
+                    "lable": "Rat"
+                },
+                "rex": {
+                    "active": true,
+                    "lable": "Rex"
+                },
+                "rocky_mountain_horse": {
+                    "active": true,
+                    "lable": "Rocky Mountain Horse"
+                },
+                "saanen": {
+                    "active": true,
+                    "lable": "Saanen"
+                },
+                "saddlebred": {
+                    "active": true,
+                    "lable": "Saddlebred"
+                },
+                "sheep": {
+                    "active": true,
+                    "lable": "Sheep"
+                },
+                "shetland": {
+                    "active": true,
+                    "lable": "Shetland"
+                },
+                "shetland_pony": {
+                    "active": true,
+                    "lable": "Shetland Pony"
+                },
+                "short_haired": {
+                    "active": true,
+                    "lable": "Short-Haired"
+                },
+                "silkie_sheltie": {
+                    "active": true,
+                    "lable": "Silkie / Sheltie"
+                },
+                "skunk": {
+                    "active": true,
+                    "lable": "Skunk"
+                },
+                "standardbred": {
+                    "active": true,
+                    "lable": "Standardbred"
+                },
+                "sugar_glider": {
+                    "active": true,
+                    "lable": "Sugar Glider"
+                },
+                "teddy": {
+                    "active": true,
+                    "lable": "Teddy"
+                },
+                "tennessee_walker": {
+                    "active": true,
+                    "lable": "Tennessee Walker"
+                },
+                "thoroughbred": {
+                    "active": true,
+                    "lable": "Thoroughbred"
+                },
+                "toggenburg": {
+                    "active": true,
+                    "lable": "Toggenburg"
+                },
+                "vietnamese_pot_bellied": {
+                    "active": true,
+                    "lable": "Vietnamese Pot Bellied"
+                },
+                "warmblood": {
+                    "active": true,
+                    "lable": "Warmblood"
+                },
+                "yorkshire": {
+                    "active": true,
+                    "lable": "Yorkshire"
+                }
+            }
+        }
+    },
+    "pet_size_unit": {
+        "pounds": {
+            "value": "pounds",
+            "sub_types": {}
+        },
+        "kilograms": {
+            "value": "kilograms",
+            "sub_types": {}
+        }
+    }
+}

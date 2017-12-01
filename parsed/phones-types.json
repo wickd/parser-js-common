@@ -1,0 +1,32 @@
+{
+    "phone_type": {
+        "home": {
+            "active": true,
+            "lable": "Home"
+        },
+        "work": {
+            "active": true,
+            "lable": "Work"
+        },
+        "mobile": {
+            "active": true,
+            "lable": "Mobile"
+        },
+        "home_fax": {
+            "active": true,
+            "lable": "Home fax"
+        },
+        "work_fax": {
+            "active": true,
+            "lable": "Work fax"
+        },
+        "page": {
+            "active": true,
+            "lable": "Page"
+        },
+        "other": {
+            "active": true,
+            "lable": "Other"
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "merchant_type": {
+        "food": {
+            "value": "food",
+            "sub_types": {
+                "asian": {
+                    "active": true,
+                    "lable": "Asian"
+                },
+                "american_african": {
+                    "active": true,
+                    "lable": "American African"
+                },
+                "cafe": {
+                    "active": true,
+                    "lable": "Cafe"
+                },
+                "caribbean": {
+                    "active": true,
+                    "lable": "Caribbean"
+                },
+                "cuban": {
+                    "active": true,
+                    "lable": "Cuban"
+                },
+                "dining_experiences": {
+                    "active": true,
+                    "lable": "Dining Experiences"
+                },
+                "fast_food": {
+                    "active": true,
+                    "lable": "Fast Food"
+                },
+                "german": {
+                    "active": true,
+                    "lable": "German"
+                },
+                "italian": {
+                    "active": true,
+                    "lable": "Italian"
+                },
+                "mexican": {
+                    "active": true,
+                    "lable": "Mexican"
+                },
+                "specialty": {
+                    "active": true,
+                    "lable": "Specialty"
+                }
+            }
+        },
+        "retailers": {
+            "value": "retailers",
+            "sub_types": {
+                "auto": {
+                    "active": true,
+                    "lable": "Auto"
+                },
+                "beauty_personal_items": {
+                    "active": true,
+                    "lable": "Beauty & Personal Items"
+                },
+                "clothing": {
+                    "active": true,
+                    "lable": "Clothing"
+                },
+                "electronics": {
+                    "active": true,
+                    "lable": "Electronics"
+                },
+                "entertainment": {
+                    "active": true,
+                    "lable": "Entertainment"
+                },
+                "farming": {
+                    "active": true,
+                    "lable": "Farming"
+                },
+                "general_retail": {
+                    "active": true,
+                    "lable": "General Retail"
+                },
+                "gifts": {
+                    "active": true,
+                    "lable": "Gifts"
+                },
+                "health_beauty": {
+                    "active": true,
+                    "lable": "Health & Beauty"
+                },
+                "home_garden": {
+                    "active": true,
+                    "lable": "Home & Garden"
+                },
+                "leisure_and_hobbies": {
+                    "active": true,
+                    "lable": "Leisure and Hobbies"
+                },
+                "pets": {
+                    "active": true,
+                    "lable": "Pets"
+                }
+            }
+        },
+        "services": {
+            "value": "services",
+            "sub_types": {
+                "specialty_retail": {
+                    "active": true,
+                    "lable": "Specialty Retail"
+                },
+                "services": {
+                    "active": true,
+                    "lable": "Services"
+                },
+                "auto": {
+                    "active": true,
+                    "lable": "Auto"
+                },
+                "dry_cleaning": {
+                    "active": true,
+                    "lable": "Dry Cleaning"
+                },
+                "entertainment": {
+                    "active": true,
+                    "lable": "Entertainment"
+                },
+                "home_garden": {
+                    "active": true,
+                    "lable": "Home & Garden"
+                },
+                "health_beauty": {
+                    "active": true,
+                    "lable": "Health & Beauty"
+                },
+                "locksmith": {
+                    "active": true,
+                    "lable": "Locksmith"
+                },
+                "personal": {
+                    "active": true,
+                    "lable": "Personal"
+                },
+                "pet": {
+                    "active": true,
+                    "lable": "Pet"
+                }
+            }
+        }
+    }
+}

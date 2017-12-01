@@ -1,0 +1,1499 @@
+{
+    "vehicle_make": {
+        "acura": {
+            "active": true,
+            "lable": "Acura"
+        },
+        "alfa_romeo": {
+            "active": true,
+            "lable": "Alfa Romeo"
+        },
+        "aston_martin": {
+            "active": true,
+            "lable": "Aston Martin"
+        },
+        "audi": {
+            "active": true,
+            "lable": "Audi"
+        },
+        "bentley": {
+            "active": true,
+            "lable": "Bentley"
+        },
+        "bmw": {
+            "active": true,
+            "lable": "BMW"
+        },
+        "buick": {
+            "active": true,
+            "lable": "Buick"
+        },
+        "cadillac": {
+            "active": true,
+            "lable": "Cadillac"
+        },
+        "chevrolet": {
+            "active": true,
+            "lable": "Chevrolet"
+        },
+        "chrysler": {
+            "active": true,
+            "lable": "Chrysler"
+        },
+        "dodge": {
+            "active": true,
+            "lable": "Dodge"
+        },
+        "ferrari": {
+            "active": true,
+            "lable": "Ferrari"
+        },
+        "fiat": {
+            "active": true,
+            "lable": "FIAT"
+        },
+        "ford": {
+            "active": true,
+            "lable": "Ford"
+        },
+        "freightliner": {
+            "active": true,
+            "lable": "Freightliner"
+        },
+        "genesis": {
+            "active": true,
+            "lable": "Genesis"
+        },
+        "gmc": {
+            "active": true,
+            "lable": "GMC"
+        },
+        "honda": {
+            "active": true,
+            "lable": "Honda"
+        },
+        "hyundai": {
+            "active": true,
+            "lable": "Hyundai"
+        },
+        "infiniti": {
+            "active": true,
+            "lable": "INFINITI"
+        },
+        "jaguar": {
+            "active": true,
+            "lable": "Jaguar"
+        },
+        "jeep": {
+            "active": true,
+            "lable": "Jeep"
+        },
+        "kia": {
+            "active": true,
+            "lable": "Kia"
+        },
+        "lamborghini": {
+            "active": true,
+            "lable": "Lamborghini"
+        },
+        "land_rover": {
+            "active": true,
+            "lable": "Land Rover"
+        },
+        "lexus": {
+            "active": true,
+            "lable": "Lexus"
+        },
+        "lincoln": {
+            "active": true,
+            "lable": "Lincoln"
+        },
+        "lotus": {
+            "active": true,
+            "lable": "Lotus"
+        },
+        "maserati": {
+            "active": true,
+            "lable": "Maserati"
+        },
+        "mazda": {
+            "active": true,
+            "lable": "Mazda"
+        },
+        "mclaren": {
+            "active": true,
+            "lable": "McLaren"
+        },
+        "mercedes_benz": {
+            "active": true,
+            "lable": "Mercedes-Benz"
+        },
+        "mini": {
+            "active": true,
+            "lable": "MINI"
+        },
+        "mitsubishi": {
+            "active": true,
+            "lable": "Mitsubishi"
+        },
+        "nissan": {
+            "active": true,
+            "lable": "Nissan"
+        },
+        "porsche": {
+            "active": true,
+            "lable": "Porsche"
+        },
+        "ram": {
+            "active": true,
+            "lable": "Ram"
+        },
+        "rolls_royce": {
+            "active": true,
+            "lable": "Rolls-Royce"
+        },
+        "scion": {
+            "active": true,
+            "lable": "Scion"
+        },
+        "smart": {
+            "active": true,
+            "lable": "smart"
+        },
+        "subaru": {
+            "active": true,
+            "lable": "Subaru"
+        },
+        "tesla": {
+            "active": true,
+            "lable": "Tesla"
+        },
+        "toyota": {
+            "active": true,
+            "lable": "Toyota"
+        },
+        "volkswagen": {
+            "active": true,
+            "lable": "Volkswagen"
+        },
+        "volvo": {
+            "active": true,
+            "lable": "Volvo"
+        }
+    },
+    "vehicle_model": {
+        "acura": {
+            "value": "acura",
+            "sub_types": {
+                "ilx": {
+                    "active": true,
+                    "lable": "ILX"
+                },
+                "mdx": {
+                    "active": true,
+                    "lable": "MDX"
+                },
+                "mdx_sport_hybrid": {
+                    "active": true,
+                    "lable": "MDX Sport Hybrid"
+                },
+                "nsx": {
+                    "active": true,
+                    "lable": "NSX"
+                },
+                "rdx": {
+                    "active": true,
+                    "lable": "RDX"
+                },
+                "rlx": {
+                    "active": true,
+                    "lable": "RLX"
+                },
+                "rlx_sport_hybrid": {
+                    "active": true,
+                    "lable": "RLX Sport Hybrid"
+                },
+                "tlx": {
+                    "active": true,
+                    "lable": "TLX"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                }
+            }
+        },
+        "alfa_romeo": {
+            "value": "alfa_romeo",
+            "sub_types": {
+                "4c": {
+                    "active": true,
+                    "lable": "4C"
+                },
+                "4c_spider": {
+                    "active": true,
+                    "lable": "4C Spider"
+                },
+                "giulia": {
+                    "active": true,
+                    "lable": "Giulia"
+                },
+                "stelvio": {
+                    "active": true,
+                    "lable": "Stelvio"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                }
+            }
+        },
+        "aston_martin": {
+            "value": "aston_martin",
+            "sub_types": {
+                "db9_gt": {
+                    "active": true,
+                    "lable": "DB9 GT"
+                },
+                "rapide_s": {
+                    "active": true,
+                    "lable": "Rapide S"
+                },
+                "vanquish": {
+                    "active": true,
+                    "lable": "Vanquish"
+                },
+                "vanquish_s": {
+                    "active": true,
+                    "lable": "Vanquish S"
+                },
+                "vantage": {
+                    "active": true,
+                    "lable": "Vantage"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                },
+                "audi": {
+                    "active": true,
+                    "lable": "Audi"
+                },
+                "a3": {
+                    "active": true,
+                    "lable": "A3"
+                },
+                "a3_sportback_e_tron": {
+                    "active": true,
+                    "lable": "A3 Sportback e-tron"
+                },
+                "a4": {
+                    "active": true,
+                    "lable": "A4"
+                },
+                "a4_allroad": {
+                    "active": true,
+                    "lable": "A4 allroad"
+                },
+                "a5": {
+                    "active": true,
+                    "lable": "A5"
+                },
+                "a5_sport": {
+                    "active": true,
+                    "lable": "A5 Sport"
+                },
+                "a6": {
+                    "active": true,
+                    "lable": "A6"
+                },
+                "a7": {
+                    "active": true,
+                    "lable": "A7"
+                },
+                "a8": {
+                    "active": true,
+                    "lable": "A8"
+                },
+                "allroad": {
+                    "active": true,
+                    "lable": "allroad"
+                },
+                "q3": {
+                    "active": true,
+                    "lable": "Q3"
+                },
+                "q5": {
+                    "active": true,
+                    "lable": "Q5"
+                },
+                "q7": {
+                    "active": true,
+                    "lable": "Q7"
+                },
+                "r8": {
+                    "active": true,
+                    "lable": "R8"
+                },
+                "rs_3": {
+                    "active": true,
+                    "lable": "RS 3"
+                },
+                "rs_7": {
+                    "active": true,
+                    "lable": "RS 7"
+                },
+                "s3": {
+                    "active": true,
+                    "lable": "S3"
+                },
+                "s4": {
+                    "active": true,
+                    "lable": "S4"
+                },
+                "s5": {
+                    "active": true,
+                    "lable": "S5"
+                },
+                "s6": {
+                    "active": true,
+                    "lable": "S6"
+                },
+                "s7": {
+                    "active": true,
+                    "lable": "S7"
+                },
+                "s8": {
+                    "active": true,
+                    "lable": "S8"
+                },
+                "sq5": {
+                    "active": true,
+                    "lable": "SQ5"
+                },
+                "tt": {
+                    "active": true,
+                    "lable": "TT"
+                }
+            }
+        },
+        "bentley": {
+            "value": "bentley",
+            "sub_types": {
+                "bentayga": {
+                    "active": true,
+                    "lable": "Bentayga"
+                },
+                "continental": {
+                    "active": true,
+                    "lable": "Continental"
+                },
+                "flying_spur": {
+                    "active": true,
+                    "lable": "Flying Spur"
+                },
+                "mulsanne": {
+                    "active": true,
+                    "lable": "Mulsanne"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                }
+            }
+        },
+        "bmw": {
+            "value": "bmw",
+            "sub_types": {
+                "2_series": {
+                    "active": true,
+                    "lable": "2 Series"
+                },
+                "3_series": {
+                    "active": true,
+                    "lable": "3 Series"
+                },
+                "4_series": {
+                    "active": true,
+                    "lable": "4 Series"
+                },
+                "5_series": {
+                    "active": true,
+                    "lable": "5 Series"
+                },
+                "6_series": {
+                    "active": true,
+                    "lable": "6 Series"
+                },
+                "7_series": {
+                    "active": true,
+                    "lable": "7 Series"
+                },
+                "i3": {
+                    "active": true,
+                    "lable": "i3"
+                },
+                "i8": {
+                    "active": true,
+                    "lable": "i8"
+                },
+                "m2": {
+                    "active": true,
+                    "lable": "M2"
+                },
+                "m3": {
+                    "active": true,
+                    "lable": "M3"
+                },
+                "m4": {
+                    "active": true,
+                    "lable": "M4"
+                },
+                "m5": {
+                    "active": true,
+                    "lable": "M5"
+                },
+                "m6": {
+                    "active": true,
+                    "lable": "M6"
+                },
+                "x1": {
+                    "active": true,
+                    "lable": "X1"
+                },
+                "x3": {
+                    "active": true,
+                    "lable": "X3"
+                },
+                "x4": {
+                    "active": true,
+                    "lable": "X4"
+                },
+                "x5": {
+                    "active": true,
+                    "lable": "X5"
+                },
+                "x5_m": {
+                    "active": true,
+                    "lable": "X5 M"
+                },
+                "x6": {
+                    "active": true,
+                    "lable": "X6"
+                },
+                "x6_m": {
+                    "active": true,
+                    "lable": "X6 M"
+                },
+                "z4": {
+                    "active": true,
+                    "lable": "Z4"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                },
+                "buick": {
+                    "active": true,
+                    "lable": "Buick"
+                },
+                "cascada": {
+                    "active": true,
+                    "lable": "Cascada"
+                },
+                "enclave": {
+                    "active": true,
+                    "lable": "Enclave"
+                },
+                "encore": {
+                    "active": true,
+                    "lable": "Encore"
+                },
+                "envision": {
+                    "active": true,
+                    "lable": "Envision"
+                },
+                "lacrosse": {
+                    "active": true,
+                    "lable": "LaCrosse"
+                },
+                "regal": {
+                    "active": true,
+                    "lable": "Regal"
+                },
+                "regal_sportback": {
+                    "active": true,
+                    "lable": "Regal Sportback"
+                },
+                "regal_tourx": {
+                    "active": true,
+                    "lable": "Regal TourX"
+                },
+                "verano": {
+                    "active": true,
+                    "lable": "Verano"
+                }
+            }
+        },
+        "cadillac": {
+            "value": "cadillac",
+            "sub_types": {
+                "ats": {
+                    "active": true,
+                    "lable": "ATS"
+                },
+                "ats_v": {
+                    "active": true,
+                    "lable": "ATS-V"
+                },
+                "ct6": {
+                    "active": true,
+                    "lable": "CT6"
+                },
+                "cts": {
+                    "active": true,
+                    "lable": "CTS"
+                },
+                "cts_v": {
+                    "active": true,
+                    "lable": "CTS-V"
+                },
+                "elr": {
+                    "active": true,
+                    "lable": "ELR"
+                },
+                "escalade": {
+                    "active": true,
+                    "lable": "Escalade"
+                },
+                "escalade_esv": {
+                    "active": true,
+                    "lable": "Escalade ESV"
+                },
+                "srx": {
+                    "active": true,
+                    "lable": "SRX"
+                },
+                "xt5": {
+                    "active": true,
+                    "lable": "XT5"
+                },
+                "xts": {
+                    "active": true,
+                    "lable": "XTS"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                }
+            }
+        },
+        "chevrolet": {
+            "value": "chevrolet",
+            "sub_types": {
+                "200": {
+                    "active": true,
+                    "lable": "200"
+                },
+                "300": {
+                    "active": true,
+                    "lable": "300"
+                },
+                "bolt_ev": {
+                    "active": true,
+                    "lable": "Bolt EV"
+                },
+                "camaro": {
+                    "active": true,
+                    "lable": "Camaro"
+                },
+                "city_express": {
+                    "active": true,
+                    "lable": "City Express"
+                },
+                "colorado_crew_cab": {
+                    "active": true,
+                    "lable": "Colorado Crew Cab"
+                },
+                "colorado_extended_cab": {
+                    "active": true,
+                    "lable": "Colorado Extended Cab"
+                },
+                "corvette": {
+                    "active": true,
+                    "lable": "Corvette"
+                },
+                "cruze": {
+                    "active": true,
+                    "lable": "Cruze"
+                },
+                "cruze_limited": {
+                    "active": true,
+                    "lable": "Cruze Limited"
+                },
+                "equinox": {
+                    "active": true,
+                    "lable": "Equinox"
+                },
+                "express_2500_cargo": {
+                    "active": true,
+                    "lable": "Express 2500 Cargo"
+                },
+                "express_2500_passenger": {
+                    "active": true,
+                    "lable": "Express 2500 Passenger"
+                },
+                "express_3500_cargo": {
+                    "active": true,
+                    "lable": "Express 3500 Cargo"
+                },
+                "express_3500_passenger": {
+                    "active": true,
+                    "lable": "Express 3500 Passenger"
+                },
+                "impala": {
+                    "active": true,
+                    "lable": "Impala"
+                },
+                "malibu": {
+                    "active": true,
+                    "lable": "Malibu"
+                },
+                "malibu_limited": {
+                    "active": true,
+                    "lable": "Malibu Limited"
+                },
+                "silverado_1500_crew_cab": {
+                    "active": true,
+                    "lable": "Silverado 1500 Crew Cab"
+                },
+                "silverado_1500_double_cab": {
+                    "active": true,
+                    "lable": "Silverado 1500 Double Cab"
+                },
+                "silverado_1500_regular_cab": {
+                    "active": true,
+                    "lable": "Silverado 1500 Regular Cab"
+                },
+                "silverado_2500_hd_crew_cab": {
+                    "active": true,
+                    "lable": "Silverado 2500 HD Crew Cab"
+                },
+                "silverado_2500_hd_double_cab": {
+                    "active": true,
+                    "lable": "Silverado 2500 HD Double Cab"
+                },
+                "silverado_2500_hd_regular_cab": {
+                    "active": true,
+                    "lable": "Silverado 2500 HD Regular Cab"
+                },
+                "silverado_3500_hd_crew_cab": {
+                    "active": true,
+                    "lable": "Silverado 3500 HD Crew Cab"
+                },
+                "silverado_3500_hd_double_cab": {
+                    "active": true,
+                    "lable": "Silverado 3500 HD Double Cab"
+                },
+                "silverado_3500_hd_regular_cab": {
+                    "active": true,
+                    "lable": "Silverado 3500 HD Regular Cab"
+                },
+                "sonic": {
+                    "active": true,
+                    "lable": "Sonic"
+                },
+                "spark": {
+                    "active": true,
+                    "lable": "Spark"
+                },
+                "spark_ev": {
+                    "active": true,
+                    "lable": "Spark EV"
+                },
+                "ss": {
+                    "active": true,
+                    "lable": "SS"
+                },
+                "suburban": {
+                    "active": true,
+                    "lable": "Suburban"
+                },
+                "tahoe": {
+                    "active": true,
+                    "lable": "Tahoe"
+                },
+                "traverse": {
+                    "active": true,
+                    "lable": "Traverse"
+                },
+                "trax": {
+                    "active": true,
+                    "lable": "Trax"
+                },
+                "volt": {
+                    "active": true,
+                    "lable": "Volt"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                },
+                "chrysler": {
+                    "active": true,
+                    "lable": "Chrysler"
+                },
+                "pacifica": {
+                    "active": true,
+                    "lable": "Pacifica"
+                },
+                "pacifica_hybrid": {
+                    "active": true,
+                    "lable": "Pacifica Hybrid"
+                },
+                "town_country": {
+                    "active": true,
+                    "lable": "Town & Country"
+                }
+            }
+        },
+        "dodge": {
+            "value": "dodge",
+            "sub_types": {
+                "challenger": {
+                    "active": true,
+                    "lable": "Challenger"
+                },
+                "charger": {
+                    "active": true,
+                    "lable": "Charger"
+                },
+                "dart": {
+                    "active": true,
+                    "lable": "Dart"
+                },
+                "durango": {
+                    "active": true,
+                    "lable": "Durango"
+                },
+                "grand_caravan_passenger": {
+                    "active": true,
+                    "lable": "Grand Caravan Passenger"
+                },
+                "journey": {
+                    "active": true,
+                    "lable": "Journey"
+                },
+                "viper": {
+                    "active": true,
+                    "lable": "Viper"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                }
+            }
+        },
+        "ferrari": {
+            "value": "ferrari",
+            "sub_types": {
+                "500": {
+                    "active": true,
+                    "lable": "500"
+                },
+                "488_gtb": {
+                    "active": true,
+                    "lable": "488 GTB"
+                },
+                "488_spider": {
+                    "active": true,
+                    "lable": "488 Spider"
+                },
+                "california": {
+                    "active": true,
+                    "lable": "California"
+                },
+                "f12berlinetta": {
+                    "active": true,
+                    "lable": "F12berlinetta"
+                },
+                "ff": {
+                    "active": true,
+                    "lable": "FF"
+                },
+                "gtc4lusso": {
+                    "active": true,
+                    "lable": "GTC4Lusso"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                },
+                "fiat": {
+                    "active": true,
+                    "lable": "FIAT"
+                },
+                "124_spider": {
+                    "active": true,
+                    "lable": "124 Spider"
+                },
+                "500_abarth": {
+                    "active": true,
+                    "lable": "500 Abarth"
+                },
+                "500c": {
+                    "active": true,
+                    "lable": "500c"
+                },
+                "500c_abarth": {
+                    "active": true,
+                    "lable": "500c Abarth"
+                },
+                "500e": {
+                    "active": true,
+                    "lable": "500e"
+                },
+                "500l": {
+                    "active": true,
+                    "lable": "500L"
+                },
+                "500x": {
+                    "active": true,
+                    "lable": "500X"
+                }
+            }
+        },
+        "ford": {
+            "value": "ford",
+            "sub_types": {
+                "c_max_energi": {
+                    "active": true,
+                    "lable": "C-MAX Energi"
+                },
+                "c_max_hybrid": {
+                    "active": true,
+                    "lable": "C-MAX Hybrid"
+                },
+                "edge": {
+                    "active": true,
+                    "lable": "Edge"
+                },
+                "escape": {
+                    "active": true,
+                    "lable": "Escape"
+                },
+                "expedition": {
+                    "active": true,
+                    "lable": "Expedition"
+                },
+                "expedition_el": {
+                    "active": true,
+                    "lable": "Expedition EL"
+                },
+                "expedition_max": {
+                    "active": true,
+                    "lable": "Expedition MAX"
+                },
+                "explorer": {
+                    "active": true,
+                    "lable": "Explorer"
+                },
+                "f150_regular_cab": {
+                    "active": true,
+                    "lable": "F150 Regular Cab"
+                },
+                "f150_super_cab": {
+                    "active": true,
+                    "lable": "F150 Super Cab"
+                },
+                "f150_supercrew_cab": {
+                    "active": true,
+                    "lable": "F150 SuperCrew Cab"
+                },
+                "f250_super_duty_crew_cab": {
+                    "active": true,
+                    "lable": "F250 Super Duty Crew Cab"
+                },
+                "f250_super_duty_regular_cab": {
+                    "active": true,
+                    "lable": "F250 Super Duty Regular Cab"
+                },
+                "f250_super_duty_super_cab": {
+                    "active": true,
+                    "lable": "F250 Super Duty Super Cab"
+                },
+                "f350_super_duty_crew_cab": {
+                    "active": true,
+                    "lable": "F350 Super Duty Crew Cab"
+                },
+                "f350_super_duty_regular_cab": {
+                    "active": true,
+                    "lable": "F350 Super Duty Regular Cab"
+                },
+                "f350_super_duty_super_cab": {
+                    "active": true,
+                    "lable": "F350 Super Duty Super Cab"
+                },
+                "f450_super_duty_crew_cab": {
+                    "active": true,
+                    "lable": "F450 Super Duty Crew Cab"
+                },
+                "fiesta": {
+                    "active": true,
+                    "lable": "Fiesta"
+                },
+                "flex": {
+                    "active": true,
+                    "lable": "Flex"
+                },
+                "focus": {
+                    "active": true,
+                    "lable": "Focus"
+                },
+                "fusion": {
+                    "active": true,
+                    "lable": "Fusion"
+                },
+                "fusion_energi": {
+                    "active": true,
+                    "lable": "Fusion Energi"
+                },
+                "mustang": {
+                    "active": true,
+                    "lable": "Mustang"
+                },
+                "taurus": {
+                    "active": true,
+                    "lable": "Taurus"
+                },
+                "transit_150_van": {
+                    "active": true,
+                    "lable": "Transit 150 Van"
+                },
+                "transit_150_wagon": {
+                    "active": true,
+                    "lable": "Transit 150 Wagon"
+                },
+                "transit_250_van": {
+                    "active": true,
+                    "lable": "Transit 250 Van"
+                },
+                "transit_350_hd_van": {
+                    "active": true,
+                    "lable": "Transit 350 HD Van"
+                },
+                "transit_350_van": {
+                    "active": true,
+                    "lable": "Transit 350 Van"
+                },
+                "ransit_350_wagon": {
+                    "active": true,
+                    "lable": "ransit 350 Wagon"
+                },
+                "transit_connect_cargo": {
+                    "active": true,
+                    "lable": "Transit Connect Cargo"
+                },
+                "transit_connect_passenger": {
+                    "active": true,
+                    "lable": "Transit Connect Passenger"
+                },
+                "other": {
+                    "active": true,
+                    "lable": "Other"
+                }
+            }
+        },
+        "freightliner": {
+            "value": "freightliner",
+            "sub_types": {}
+        },
+        "genesis": {
+            "value": "genesis",
+            "sub_types": {}
+        },
+        "gmc": {
+            "value": "gmc",
+            "sub_types": {
+                "honda": {
+                    "active": true,
+                    "lable": "Honda"
+                },
+                "hyundai": {
+                    "active": true,
+                    "lable": "Hyundai"
+                },
+                "infiniti": {
+                    "active": true,
+                    "lable": "INFINITI"
+                },
+                "jaguar": {
+                    "active": true,
+                    "lable": "Jaguar"
+                },
+                "jeep": {
+                    "active": true,
+                    "lable": "Jeep"
+                },
+                "kia": {
+                    "active": true,
+                    "lable": "Kia"
+                },
+                "lamborghini": {
+                    "active": true,
+                    "lable": "Lamborghini"
+                },
+                "land_rover": {
+                    "active": true,
+                    "lable": "Land Rover"
+                },
+                "lexus": {
+                    "active": true,
+                    "lable": "Lexus"
+                },
+                "lincoln": {
+                    "active": true,
+                    "lable": "Lincoln"
+                },
+                "lotus": {
+                    "active": true,
+                    "lable": "Lotus"
+                },
+                "maserati": {
+                    "active": true,
+                    "lable": "Maserati"
+                },
+                "mazda": {
+                    "active": true,
+                    "lable": "Mazda"
+                },
+                "mclaren": {
+                    "active": true,
+                    "lable": "McLaren"
+                },
+                "mercedes_benz": {
+                    "active": true,
+                    "lable": "Mercedes-Benz"
+                },
+                "mini": {
+                    "active": true,
+                    "lable": "MINI"
+                },
+                "mitsubishi": {
+                    "active": true,
+                    "lable": "Mitsubishi"
+                },
+                "nissan": {
+                    "active": true,
+                    "lable": "Nissan"
+                },
+                "porsche": {
+                    "active": true,
+                    "lable": "Porsche"
+                },
+                "ram": {
+                    "active": true,
+                    "lable": "Ram"
+                },
+                "rolls_royce": {
+                    "active": true,
+                    "lable": "Rolls-Royce"
+                },
+                "scion": {
+                    "active": true,
+                    "lable": "Scion"
+                },
+                "smart": {
+                    "active": true,
+                    "lable": "smart"
+                },
+                "subaru": {
+                    "active": true,
+                    "lable": "Subaru"
+                },
+                "tesla": {
+                    "active": true,
+                    "lable": "Tesla"
+                },
+                "toyota": {
+                    "active": true,
+                    "lable": "Toyota"
+                },
+                "volkswagen": {
+                    "active": true,
+                    "lable": "Volkswagen"
+                },
+                "volvo": {
+                    "active": true,
+                    "lable": "Volvo"
+                }
+            }
+        }
+    },
+    "vehicle_color": {
+        "tbd": {
+            "active": true,
+            "lable": "TBD"
+        }
+    },
+    "vehicle_year": {
+        "1980": {
+            "active": true,
+            "lable": "<1980"
+        },
+        "1981": {
+            "active": true,
+            "lable": "1981"
+        },
+        "1982": {
+            "active": true,
+            "lable": "1982"
+        },
+        "1983": {
+            "active": true,
+            "lable": "1983"
+        },
+        "1984": {
+            "active": true,
+            "lable": "1984"
+        },
+        "1985": {
+            "active": true,
+            "lable": "1985"
+        },
+        "1986": {
+            "active": true,
+            "lable": "1986"
+        },
+        "1987": {
+            "active": true,
+            "lable": "1987"
+        },
+        "1988": {
+            "active": true,
+            "lable": "1988"
+        },
+        "1989": {
+            "active": true,
+            "lable": "1989"
+        },
+        "1990": {
+            "active": true,
+            "lable": "1990"
+        },
+        "1991": {
+            "active": true,
+            "lable": "1991"
+        },
+        "1992": {
+            "active": true,
+            "lable": "1992"
+        },
+        "1993": {
+            "active": true,
+            "lable": "1993"
+        },
+        "1994": {
+            "active": true,
+            "lable": "1994"
+        },
+        "1995": {
+            "active": true,
+            "lable": "1995"
+        },
+        "1996": {
+            "active": true,
+            "lable": "1996"
+        },
+        "1997": {
+            "active": true,
+            "lable": "1997"
+        },
+        "1998": {
+            "active": true,
+            "lable": "1998"
+        },
+        "1999": {
+            "active": true,
+            "lable": "1999"
+        },
+        "2000": {
+            "active": true,
+            "lable": "2000"
+        },
+        "2001": {
+            "active": true,
+            "lable": "2001"
+        },
+        "2002": {
+            "active": true,
+            "lable": "2002"
+        },
+        "2003": {
+            "active": true,
+            "lable": "2003"
+        },
+        "2004": {
+            "active": true,
+            "lable": "2004"
+        },
+        "2005": {
+            "active": true,
+            "lable": "2005"
+        },
+        "2006": {
+            "active": true,
+            "lable": "2006"
+        },
+        "2007": {
+            "active": true,
+            "lable": "2007"
+        },
+        "2008": {
+            "active": true,
+            "lable": "2008"
+        },
+        "2009": {
+            "active": true,
+            "lable": "2009"
+        },
+        "2010": {
+            "active": true,
+            "lable": "2010"
+        },
+        "2011": {
+            "active": true,
+            "lable": "2011"
+        },
+        "2012": {
+            "active": true,
+            "lable": "2012"
+        },
+        "2013": {
+            "active": true,
+            "lable": "2013"
+        },
+        "2014": {
+            "active": true,
+            "lable": "2014"
+        },
+        "2015": {
+            "active": true,
+            "lable": "2015"
+        },
+        "2016": {
+            "active": true,
+            "lable": "2016"
+        },
+        "2017": {
+            "active": true,
+            "lable": "2017"
+        },
+        "2018": {
+            "active": true,
+            "lable": "2018"
+        }
+    },
+    "state": {
+        "alabama": {
+            "active": true,
+            "lable": "Alabama"
+        },
+        "alaska": {
+            "active": true,
+            "lable": "Alaska"
+        },
+        "arizona": {
+            "active": true,
+            "lable": "Arizona"
+        },
+        "arkansas": {
+            "active": true,
+            "lable": "Arkansas"
+        },
+        "california": {
+            "active": true,
+            "lable": "California"
+        },
+        "colorado": {
+            "active": true,
+            "lable": "Colorado"
+        },
+        "connecticut": {
+            "active": true,
+            "lable": "Connecticut"
+        },
+        "delaware": {
+            "active": true,
+            "lable": "Delaware"
+        },
+        "florida": {
+            "active": true,
+            "lable": "Florida"
+        },
+        "georgia": {
+            "active": true,
+            "lable": "Georgia"
+        },
+        "hawaii": {
+            "active": true,
+            "lable": "Hawaii"
+        },
+        "idaho": {
+            "active": true,
+            "lable": "Idaho"
+        },
+        "illinois": {
+            "active": true,
+            "lable": "Illinois"
+        },
+        "indiana": {
+            "active": true,
+            "lable": "Indiana"
+        },
+        "iowa": {
+            "active": true,
+            "lable": "Iowa"
+        },
+        "kansas": {
+            "active": true,
+            "lable": "Kansas"
+        },
+        "kentucky": {
+            "active": true,
+            "lable": "Kentucky"
+        },
+        "louisiana": {
+            "active": true,
+            "lable": "Louisiana"
+        },
+        "maine": {
+            "active": true,
+            "lable": "Maine"
+        },
+        "maryland": {
+            "active": true,
+            "lable": "Maryland"
+        },
+        "massachusetts": {
+            "active": true,
+            "lable": "Massachusetts"
+        },
+        "michigan": {
+            "active": true,
+            "lable": "Michigan"
+        },
+        "minnesota": {
+            "active": true,
+            "lable": "Minnesota"
+        },
+        "mississippi": {
+            "active": true,
+            "lable": "Mississippi"
+        },
+        "missouri": {
+            "active": true,
+            "lable": "Missouri"
+        },
+        "montana": {
+            "active": true,
+            "lable": "Montana"
+        },
+        "nebraska": {
+            "active": true,
+            "lable": "Nebraska"
+        },
+        "nevada": {
+            "active": true,
+            "lable": "Nevada"
+        },
+        "new_hampshire": {
+            "active": true,
+            "lable": "New Hampshire"
+        },
+        "new_jersey": {
+            "active": true,
+            "lable": "New Jersey"
+        },
+        "new_mexico": {
+            "active": true,
+            "lable": "New Mexico"
+        },
+        "new_york": {
+            "active": true,
+            "lable": "New York"
+        },
+        "north_carolina": {
+            "active": true,
+            "lable": "North Carolina"
+        },
+        "north_dakota": {
+            "active": true,
+            "lable": "North Dakota"
+        },
+        "ohio": {
+            "active": true,
+            "lable": "Ohio"
+        },
+        "oklahoma": {
+            "active": true,
+            "lable": "Oklahoma"
+        },
+        "oregon": {
+            "active": true,
+            "lable": "Oregon"
+        },
+        "pennsylvania": {
+            "active": true,
+            "lable": "Pennsylvania"
+        },
+        "rhode_island": {
+            "active": true,
+            "lable": "Rhode Island"
+        },
+        "south_carolina": {
+            "active": true,
+            "lable": "South Carolina"
+        },
+        "south_dakota": {
+            "active": true,
+            "lable": "South Dakota"
+        },
+        "tennessee": {
+            "active": true,
+            "lable": "Tennessee"
+        },
+        "texas": {
+            "active": true,
+            "lable": "Texas"
+        },
+        "utah": {
+            "active": true,
+            "lable": "Utah"
+        },
+        "vermont": {
+            "active": true,
+            "lable": "Vermont"
+        },
+        "virginia": {
+            "active": true,
+            "lable": "Virginia"
+        },
+        "washington": {
+            "active": true,
+            "lable": "Washington"
+        },
+        "west_virginia": {
+            "active": true,
+            "lable": "West Virginia"
+        },
+        "wisconsin": {
+            "active": true,
+            "lable": "Wisconsin"
+        },
+        "wyoming": {
+            "active": true,
+            "lable": "Wyoming"
+        }
+    }
+}
